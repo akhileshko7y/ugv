@@ -20,10 +20,14 @@ Each lesson covers the basics; follow the pointers to explore deeper on your own
 Ticked topics have generated content. Unticked are gaps — run `/learn-docs add`
 to fill them.
 
-<!-- GEN:coverage topic=coverage level=index depth=basic src=INIT START -->
+<!-- GEN:coverage topic=coverage level=index depth=basic src=931b9c4 START -->
 - [ ] Product overview
-- [ ] Architecture
+- [x] Architecture — system walkthrough + settled/open decision ledger *(deep)*
 - [ ] Extending
 - [ ] Operations
 - [ ] Glossary
+
+> Note: the repo has no code yet (`CLAUDE.md:36-37`). Lessons currently cite the
+> design docs as source of truth and should be regenerated against real source as
+> each phase lands.
 <!-- GEN:coverage END -->
